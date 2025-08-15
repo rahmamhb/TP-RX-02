@@ -1,0 +1,20 @@
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Packet Tracer temporary files
+*.bak
+*.tmp
+
+# Logs
+*.log
+
+# Python cache 
+__pycache__/
+*.pyc
